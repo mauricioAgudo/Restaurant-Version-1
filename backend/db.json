@@ -2,11 +2,11 @@
     "users": [
       {
         "id": 1,
-        "name": "John Doe",
-        "email": "john@example.com",
-        "phone": "123456789",
-        "address": "Calle 123",
-        "zone": "Zona 1",
+        "name": "Mauricio Agudo",
+        "email": "mauri@hotmail.com",
+        "phone": "71468888",
+        "address": "Cercado",
+        "zone": "Zona 2",
         "notes": "Nota de ejemplo"
       }
     ]
