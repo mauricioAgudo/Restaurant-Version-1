@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "123456789",
+        "address": "Calle 123",
+        "zone": "Zona 1",
+        "notes": "Nota de ejemplo"
+      }
+    ]
+  }
+  
